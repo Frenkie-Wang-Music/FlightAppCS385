@@ -1,0 +1,8 @@
+JSONLint - Validate and Format JSON Data:
+https://jsonlint.com/
+
+Svg -> PNG:
+https://svgtopng.com/zh/
+
+Resize Image:
+https://www.shopify.com/tools/image-resizer#ToolContent
